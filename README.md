@@ -1,4 +1,4 @@
-# webSite
+# Historias de la Gente
 Reto bootcamp 2021 
 ciudad:villavicencio
 sede: sena
@@ -16,9 +16,9 @@ respetando las normas y guias de diseño mas conocidos como lineamientos de dise
 sobrepasando los retos, y las problematicas de desarrollo, diseño y tecnicas, con gram¿n empatia y sociabilidad, que es
 lo importante de los equipos, que llevan a cabo estos proyectos, vigilados por el tiempo acelerado de entrega.
 
-autores:
+#Autores:
 jhonathan alejandro rojas
 hector
 julio cesar
 
-plantilla de uso libre(open source).
+Plantilla de uso libre(open source).
